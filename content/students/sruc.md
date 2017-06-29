@@ -24,11 +24,11 @@ projects:
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests.
     image: sruc/projet_2.png
-    link: https://openclassrooms-student-center.github.io/presentation/students/sruc.html
+    link: https://openclassrooms-student-center.github.io/presentation/students/Michaël.html
     finished: true
   - title: Aidez MacGyver à sortir !
     description: Création d’un jeu développé en Python et utilisant PyGame.
     image: sruc/projet_3.png
-    link: https://www.github.com
+    link: https://github.com/Sruc73
     finished: false
 ---
